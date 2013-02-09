@@ -1,0 +1,77 @@
+
+(april ? - 5-2-12)
+
+-recent stuff - put in cpmstar ads, ng/mochi ads.
+-fix movement glitches
+-Change zoom of game
+-incorporate sponsor assets/callbacks
+-fix some playtomic tracking stuff
+-added autorun?
+-fixed massive memory leaks via nulling flxstate objects (...oops)
+-released ost..
+
+
+(4-6-12)
+-added NG medals and Kong unlocks
+-need to integrate mochi stuff when thta time comes
+-need to purchase secureswf	
+(3-6-12)
+-Submitted at 1 AM today. Did bugfixes with map
+-Implementing WASD/JK controls...boring!!! Did player, world map. Need to do:
+	-hutstate menu logic
+	-main menu logic
+	-cutscene advancement
+	-ending advancement
+	-intro advancement	
+	-playstate advancement
+
+(3-5-12)
+-Finish last stages
+-Finish ending
+-Add the secrets, except disco
+-Add twitter link thing
+
+(3-4-12)
+-"cutscenes" logic done and put in place
+-finished world map, finished adding markers.
+-Secret stages unlocks work.
+-Confirmed some pill/times. Edited a few levels a little.
+-Nice-tiled all the main levels.
+
+(3-3-12)
+-Secret/treasure infrastructure in place, still need activation of secrets
+-jukebox/secrets GFX in place
+-Finished all but S-3 through S-5
+-Added global mute
+-Added level exit/enter mini-SFX.
+-drew a little more of the world map
+
+(3-2/3-12)
+-Added 3 levels.
+-Fixed up other levels
+-Filled in some dev times/pill times.
+-Added score display on beating level.
+-Fixed hut music glitch.
+-Fixed ghost display glitch.
+-Added initial secret-unlocking infrastructure.
+
+(Between)
+-Added autosave.
+-Combined tutorial stages.
+
+(2-26-12)
+-Added jukebox mechanics (need to draw gfx)
+-Added some world 3 stages, tiled a few others
+-Added the forest song.
+-Added medal viewing on the stats screen.
+
+(2-25-12)
+-Implemented breaky blocks
+-Added a title logo
+-Renamed game "Inspiration Dave"
+-Updated file select song
+-Added title screen song
+-Drew some house tilesets
+-Threw out Pill mechanic.
+-Basic crap with the Hut (initialization, etc)
+-Added a "stats screen" for the world map
