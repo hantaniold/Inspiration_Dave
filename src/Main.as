@@ -28,7 +28,7 @@ package
             //NG API stuff 
                 
             //DECOMMENT ONLY FOR MOCHI-ADS FOR NEWGROUNDS
-           // API.connect(root, "24202:EUFh65az", "pSq086W6dxYxOTuKvbTRFzjj0tHypqOR");
+           // API.connect(root, "", "");
             
             API.addEventListener(APIEvent.MEDAL_UNLOCKED, onMedalUnlocked);
             var game:InspirationDave = new InspirationDave;
